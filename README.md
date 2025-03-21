@@ -36,7 +36,7 @@ Abra o arquivo index.html em seu navegador favorito.
 📚 Melhorias Futuras
 
 Adicionar animações com CSS e JavaScript
-Implementar um modo escuro (dark mode)
+Implementar um modo escuro (dark mode),
 Otimização de performance e SEO
 
 📞 Contato
