@@ -46,4 +46,4 @@ Se deseja conversar ou saber mais sobre meu trabalho, entre em contato:
 LinkedIn: www.linkedin.com/in/hudsontavares96
 E-mail: hudsontavares96@email.com
 
-Feito com por Hudson Tavares
+Feito por Hudson Tavares
