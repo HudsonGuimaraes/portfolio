@@ -27,7 +27,7 @@ Download do meu Currículo (CV)
 
 Para rodar o portfólio localmente:
 
-Clone o repositório: git clone https://github.com/seu-usuario/portfolio.git
+Clone o repositório: git clone https://github.com/HudsonGuimaraes/portfolio?tab=readme-ov-file
 
 Acesse o diretório do projeto: cd portfolio
 
